@@ -1,2 +1,0 @@
-# seclimatizacao
-Site de Climatização
